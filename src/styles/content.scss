@@ -30,4 +30,8 @@ main {
     grid-gap: 4.75rem;
     list-style: none;
   }
+
+  .movies-list:hover {
+    border-color: gold;
+  }
 }
